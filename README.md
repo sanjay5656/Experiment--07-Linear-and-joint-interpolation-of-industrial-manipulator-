@@ -47,6 +47,7 @@ DART studio screen shots for linear interpolation and DRAT studio screen shots f
 
 ### Robot movements 
 
+![rob 7 op2](https://user-images.githubusercontent.com/115128955/203239474-e301606e-5aa5-4dd3-b529-095ffe7591e5.jpg)
 
 ![rob 7 op3](https://user-images.githubusercontent.com/115128955/203238435-62885125-d57a-47aa-b75e-3334e1704eac.jpg)
 
